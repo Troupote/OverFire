@@ -26,7 +26,7 @@ Material:
   m_ModifiedSerializedProperties: 2
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 2
+  m_LightmapFlags: 6
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -40,5 +40,5 @@ Material:
     m_Floats:
     - _QueueControl: 0
     m_Colors:
-    - _Color: {r: 1, g: 0.57412297, b: 0, a: 0}
+    - _Color: {r: 0.9063317, g: 0.9063317, b: 0.9063317, a: 1}
   m_BuildTextureStacks: []
